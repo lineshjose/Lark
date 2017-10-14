@@ -1,0 +1,10 @@
+	/* IE styles */
+	*html #content .posts{margin:20px 10px 20px;padding:0; }
+	*html #content .posts li{width:92%;}
+	 *html #content .single_post,*html #comments{	width: 88%;	}
+	*html #content .posts li .comment,*html #content .single_post .comment{margin-top:-20px!important; display:block}
+	*html #content .posts li h2 a{padding:0px;margin:0; }
+	*html #content .posts li .date{margin:10px 0;}
+	*html #content .posts li .entry_content p{margin-bottom:5px; }
+	*html #content .single_post,*html #comments {margin:20px 10px 20px;padding:10px 20px; }
+	*html #content .single_post .comment{margin-top:-10px!important; display:block}
