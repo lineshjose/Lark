@@ -1,6 +1,6 @@
 === Lark ===
 Contributors: lineshjose
-Theme URI: http://linesh.com/projects/lark/
+Theme URI: https://linesh.com/projects/lark/
 Requires at least: WordPress 4
 Tested up to: WordPress 4.8
 Stable tag: 2.1
